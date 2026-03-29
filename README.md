@@ -1,6 +1,6 @@
 👋 Hi, I’m Vishal Gaurav
 
-🚀 Business / Data Analyst | SQL | Power BI | Python (Basics)
+🚀 Business / Data Analyst | SQL | Power BI | Python 
 
 I am a Data Analyst with hands-on experience in SQL and Power BI, focused on turning data into meaningful business insights.
 
